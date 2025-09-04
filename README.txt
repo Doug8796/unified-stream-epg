@@ -1,3 +1,5 @@
+![Diagram](images/epg/png)
+
 To use this tool:
 
 1) Install Python from python.org/downloads
@@ -7,5 +9,6 @@ pip install selenium
 
 3) Install ChromeDriver
 4) Run python peacock_xxx_x.py
+
 
 
