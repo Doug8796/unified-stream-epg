@@ -6,5 +6,6 @@ To use this tool:
 pip install selenium
 
 3) Install ChromeDriver
-3) Run python peacock_xxx_x.py
+4) Run python peacock_xxx_x.py
+
 
